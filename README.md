@@ -5,7 +5,7 @@ This project involves the development and application of a machine learning mode
 <h2>Technologies and Tools Used</h2>
 <b>Python</b>: For data preprocessing, exploratory data analysis, and machine learning.
 <b>Scikit-learn</b>: A machine learning library used for implementing and evaluating the models.
-<b>Jupyter Notebook</b>: An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
+<b>Jupyter Notebook and Google Collboratory</b>: An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
 <h2>Environment</h2>
 <b>Python Environment</b>: Anaconda distribution with Python 3.x, containing all the necessary libraries.
 <b>Operating System</b>: Compatible with Windows, macOS, and Linux for development and testing.
